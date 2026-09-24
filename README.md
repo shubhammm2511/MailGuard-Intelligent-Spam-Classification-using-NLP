@@ -2,7 +2,7 @@
 MailGuard is an intelligent web application designed to classify text messages (like SMS or emails) as either legitimate (ham) or spam. It leverages Natural Language Processing (NLP) and an ensemble Machine Learning model to provide fast and accurate real-time analysis.
 
 🚀 Live Demo
-[INSERT YOUR STREAMLIT COMMUNITY CLOUD LINK HERE]
+https://mailguard-intelligent-spam-classification-using-nlp-hn7rtacxqr.streamlit.app/
 
 ✨ Features
 Interactive Web Interface: A clean and engaging UI built with Streamlit for easy use.
